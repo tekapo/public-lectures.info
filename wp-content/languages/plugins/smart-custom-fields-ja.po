@@ -1,0 +1,329 @@
+# Translation of Stable (latest release) in Japanese
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-03 05:26:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: classes/fields/class.field-textarea.php:68
+msgid "Rows"
+msgstr "行数"
+
+#: smart-custom-fields.php:163
+msgid "New Field"
+msgstr "新規フィールド"
+
+#: smart-custom-fields.php:164
+msgid "Edit Field"
+msgstr "フィールド編集"
+
+#: smart-custom-fields.php:165
+msgid "View Field"
+msgstr "フィールドを表示"
+
+#: smart-custom-fields.php:166
+msgid "All Fields"
+msgstr "すべてのフィールド"
+
+#: smart-custom-fields.php:167
+msgid "Search Fields"
+msgstr "フィールドを検索"
+
+#: smart-custom-fields.php:168
+msgid "Parent Fields:"
+msgstr "親フィールド:"
+
+#: smart-custom-fields.php:169
+msgid "No Fields found."
+msgstr "フィールドは見つかりませんでした。"
+
+#: smart-custom-fields.php:170
+msgid "No Fields found in Trash."
+msgstr "ゴミ箱にフィールドは見つかりませんでした"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/inc2734/smart-custom-fields/"
+msgstr "https://github.com/inc2734/smart-custom-fields/"
+
+#. Description of the plugin/theme
+msgid "Smart Custom Fields is a simple plugin that management custom fields."
+msgstr "Smart Custom Fields はカスタムフィールドを管理するシンプルなプラグインです。"
+
+#. Author of the plugin/theme
+msgid "inc2734"
+msgstr "inc2734"
+
+#. Author URI of the plugin/theme
+msgid "http://2inc.org"
+msgstr "http://2inc.org"
+
+#: classes/models/class.group.php:132
+msgid "Group name"
+msgstr "グループ名"
+
+#. #-#-#-#-#  tmp-smart-custom-fields.pot (Smart Custom Fields 1.7.0) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: classes/models/class.revisions.php:124 smart-custom-fields.php:158
+#: smart-custom-fields.php:159 smart-custom-fields.php:160
+msgid "Smart Custom Fields"
+msgstr "Smart Custom Fields"
+
+#: smart-custom-fields.php:161 smart-custom-fields.php:162
+#: smart-custom-fields.php:208 smart-custom-fields.php:209
+msgid "Add New"
+msgstr "新規作成"
+
+#: classes/models/class.abstract-field-base.php:116
+msgid "Label"
+msgstr "表示ラベル"
+
+#: classes/models/class.group.php:127
+msgid "Repeat"
+msgstr "繰り返し"
+
+#: classes/models/class.abstract-field-base.php:105
+msgid "Name"
+msgstr "名称"
+
+#: classes/fields/class.field-textarea.php:21
+msgid "Textarea"
+msgstr "テキスト領域"
+
+#: classes/fields/class.field-wysiwyg.php:26
+msgid "Wysiwyg"
+msgstr "WYSIWYG"
+
+#: classes/fields/class.field-wysiwyg.php:142
+#: classes/fields/class.field-wysiwyg.php:143
+msgid "Add Media"
+msgstr "メディアを追加"
+
+#: classes/fields/class.field-text.php:21
+msgid "Text"
+msgstr "テキストフィールド"
+
+#: classes/fields/class.field-relation.php:195
+#: classes/fields/class.field-taxonomy.php:198
+msgid "Load more"
+msgstr "さらに読み込む"
+
+#: classes/fields/class.field-select.php:21
+msgid "Select"
+msgstr "セレクトボックス"
+
+#: classes/fields/class.field-image.php:73
+msgid "Image Select"
+msgstr "画像選択"
+
+#: classes/fields/class.field-image.php:103
+msgid "Preview Size"
+msgstr "プレビューサイズ"
+
+#: classes/fields/class.field-radio.php:21
+msgid "Radio"
+msgstr "ラジオボタン"
+
+#: classes/fields/class.field-relation.php:191
+#: classes/fields/class.field-taxonomy.php:194
+msgid "Search..."
+msgstr "検索…"
+
+#: classes/fields/class.field-file.php:73
+msgid "File Select"
+msgstr "ファイル選択"
+
+#: classes/fields/class.field-image.php:21
+msgid "Image"
+msgstr "画像フィールド"
+
+#: classes/fields/class.field-file.php:50
+#: classes/fields/class.field-image.php:51
+msgid "Delete"
+msgstr "消去"
+
+#: classes/fields/class.field-datepicker.php:142
+msgid "e.g dd/mm/yy"
+msgstr "例: dd/mm/yy"
+
+#: classes/fields/class.field-datepicker.php:152
+msgid "Max Date"
+msgstr "最大日付"
+
+#: classes/fields/class.field-datepicker.php:160
+#: classes/fields/class.field-datepicker.php:178
+msgid "e.g +1m +1w"
+msgstr "例: +1m +1w"
+
+#: classes/fields/class.field-datepicker.php:170
+msgid "Min Date"
+msgstr "最小日付"
+
+#: classes/fields/class.field-file.php:21
+msgid "File"
+msgstr "ファイルフィールド"
+
+#: classes/fields/class.field-datepicker.php:29
+msgid "Date picker"
+msgstr "日付ピッカー"
+
+#: classes/fields/class.field-datepicker.php:134
+msgid "Date Format"
+msgstr "データフォーマット"
+
+#: classes/fields/class.field-check.php:21
+msgid "Check"
+msgstr "チェックボックス"
+
+#: classes/fields/class.field-check.php:83
+#: classes/fields/class.field-radio.php:82
+#: classes/fields/class.field-select.php:76
+msgid "Choices"
+msgstr "選択肢"
+
+#: classes/fields/class.field-check.php:92
+#: classes/fields/class.field-radio.php:91
+msgid "Display Direction"
+msgstr "表示方向"
+
+#: classes/fields/class.field-check.php:96
+#: classes/fields/class.field-radio.php:95
+msgid "horizontal"
+msgstr "水平方向"
+
+#: classes/fields/class.field-check.php:97
+#: classes/fields/class.field-radio.php:96
+msgid "vertical"
+msgstr "垂直方向"
+
+#: classes/fields/class.field-colorpicker.php:29
+msgid "Color picker"
+msgstr "カラーピッカー"
+
+#: classes/fields/class.field-boolean.php:107
+msgid "TRUE Label"
+msgstr "TRUE ラベル"
+
+#: classes/fields/class.field-boolean.php:117
+msgid "FALSE Label"
+msgstr "FALSE ラベル"
+
+#: classes/fields/class.field-boolean.php:127
+#: classes/fields/class.field-check.php:121
+#: classes/fields/class.field-colorpicker.php:111
+#: classes/fields/class.field-datepicker.php:188
+#: classes/fields/class.field-file.php:92
+#: classes/fields/class.field-image.php:93
+#: classes/fields/class.field-radio.php:120
+#: classes/fields/class.field-relation.php:234
+#: classes/fields/class.field-select.php:94
+#: classes/fields/class.field-taxonomy.php:235
+#: classes/fields/class.field-text.php:74
+#: classes/fields/class.field-textarea.php:87
+#: classes/fields/class.field-wysiwyg.php:120
+msgid "Notes"
+msgstr "注記"
+
+#: classes/fields/class.field-boolean.php:82
+#: classes/fields/class.field-check.php:112
+#: classes/fields/class.field-colorpicker.php:102
+#: classes/fields/class.field-datepicker.php:124
+#: classes/fields/class.field-radio.php:111
+#: classes/fields/class.field-select.php:85
+#: classes/fields/class.field-text.php:65
+#: classes/fields/class.field-textarea.php:78
+#: classes/fields/class.field-wysiwyg.php:111
+msgid "Default"
+msgstr "初期"
+
+#: classes/fields/class.field-boolean.php:39
+msgid "No"
+msgstr "不可"
+
+#: classes/controller/class.settings.php:232
+msgid "Post Ids ( Comma separated )"
+msgstr "投稿 ID (カンマ区切り)"
+
+#: classes/controller/class.settings.php:257
+msgid "Roles"
+msgstr "権限"
+
+#: classes/controller/class.settings.php:283
+#: classes/fields/class.field-taxonomy.php:216
+msgid "Taxonomies"
+msgstr "タクソノミー"
+
+#: classes/fields/class.field-boolean.php:24
+msgid "Boolean"
+msgstr "真偽値"
+
+#: classes/fields/class.field-boolean.php:38
+msgid "Yes"
+msgstr "あり"
+
+#: classes/controller/class.settings.php:191
+msgid "Add Sub field"
+msgstr "サブフィールドを追加"
+
+#: classes/controller/class.settings.php:195
+msgid "Add Field"
+msgstr "フィールド追加"
+
+#: classes/controller/class.settings.php:225
+#: classes/fields/class.field-relation.php:213
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: classes/controller/class.settings.php:29
+msgid "Basic fields"
+msgstr "基本フィールド"
+
+#: classes/controller/class.settings.php:33
+msgid "Select fields"
+msgstr "選択フィールド"
+
+#: classes/controller/class.settings.php:37
+msgid "Content fields"
+msgstr "コンテンツフィールド"
+
+#: classes/controller/class.settings.php:41
+msgid "Other fields"
+msgstr "その他のフィールド"
+
+#: classes/controller/class.settings.php:64
+msgid "Same name exists!"
+msgstr "同じ名前が存在します！"
+
+#: classes/controller/class.settings.php:82
+msgid "Display conditions ( Post )"
+msgstr "表示条件（投稿）"
+
+#: classes/controller/class.settings.php:89
+msgid "Display conditions ( Profile )"
+msgstr "表示条件（プロフィール）"
+
+#: classes/controller/class.settings.php:96
+msgid "Display conditions ( Taxonomy )"
+msgstr "表示条件（タクソノミー）"
+
+#: classes/controller/class.settings.php:156
+msgid "Type"
+msgstr "種別"
+
+#: classes/controller/class.controller-base.php:46
+msgid "Image setting"
+msgstr "画像設定"
+
+#: classes/controller/class.controller-base.php:47
+msgid "File setting"
+msgstr "ファイル設定"
+
+#: classes/controller/class.profile.php:43
+#: classes/controller/class.settings.php:76
+msgid "Custom Fields"
+msgstr "カスタムフィールド"

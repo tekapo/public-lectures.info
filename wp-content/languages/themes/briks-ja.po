@@ -1,0 +1,258 @@
+# Translation of Briks in Japanese
+# This file is distributed under the same license as the Briks package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-25 05:43:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Briks\n"
+
+#. Theme Name of the plugin/theme
+msgid "Briks"
+msgstr "Briks"
+
+#. Description of the plugin/theme
+msgid "Briks brings in a fresh layout uniquely flexible and responsive. As the name suggests, the images and posts rearrange themselves like a mosiac or bricks structure."
+msgstr "Briks はユニークな柔軟性を持つレスポンシブデザインのフレッシュなレイアウトを取り入れていますテーマ名のとおり、画像と投稿はモザイクまたはレンガ造りのように自動的に再配置されます。"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "メタ情報"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "検索"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: inc/template-tags.php:85
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">投稿日: %1$s</span><span class=\"byline\"> 投稿者: %2$s</span>"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"> &laquo;</span> %title"
+msgstr "<span class=\"meta-nav\"> &laquo;</span> %title"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&raquo;</span>"
+msgstr "%title <span class=\"meta-nav\">&raquo;</span>"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の投稿"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: functions.php:162 functions.php:172
+msgid "Logo"
+msgstr "ロゴ"
+
+#: functions.php:156
+msgid "Box Color "
+msgstr "ボックスの色"
+
+#: functions.php:142
+msgid "Color Scheme"
+msgstr "色の設定"
+
+#: functions.php:119
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: functions.php:118
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: functions.php:70
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: content.php:26 content.php:49
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:13
+msgid "Under"
+msgstr "下"
+
+#: content-page.php:26 content-single.php:31 content.php:29 content.php:52
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:56
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: comments.php:54
+msgid "E-mail"
+msgstr "メールアドレス"
+
+#: comments.php:52
+msgid "Name"
+msgstr "名前"
+
+#: comments.php:39
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s のために  \"%3$s\""
+
+#: comments.php:36
+msgid "Pings&#47;Trackbacks"
+msgstr "Ping&#47;トラックバック"
+
+#: comments.php:13 comments.php:24
+msgid "Newer comments &#8250;"
+msgstr "新しいコメント &#8250;"
+
+#: comments.php:12 comments.php:23
+msgid "&#8249; Older comments"
+msgstr "&#8249; 古いコメント "
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "この投稿はパスワードで保護されています。コメントを表示するにはパスワードを入力してください。"
+
+#: archive.php:63 sidebar.php:17
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: archive.php:60
+msgid "Chats"
+msgstr "チャット"
+
+#: archive.php:57
+msgid "Audios"
+msgstr "音声"
+
+#: archive.php:54
+msgid "Statuses"
+msgstr "ステータス"
+
+#: archive.php:51
+msgid "Links"
+msgstr "リンク"
+
+#: archive.php:48
+msgid "Quotes"
+msgstr "引用"
+
+#: archive.php:45
+msgid "Videos"
+msgstr "動画"
+
+#: archive.php:42
+msgid "Images"
+msgstr "画像"
+
+#: archive.php:39
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: archive.php:36
+msgid "Asides"
+msgstr "アサイド"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:33
+msgid "Year: %s"
+msgstr "﻿年別: %s"
+
+#: archive.php:30
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: archive.php:30
+msgid "Month: %s"
+msgstr "月別: %s"
+
+#: archive.php:27
+msgid "Day: %s"
+msgstr "﻿日別: %s"
+
+#: archive.php:24
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: archive.php:20
+msgid "Category : %s"
+msgstr "カテゴリー「 %s 」の記事"
+
+#: archive.php:22
+msgid "Tag : %s"
+msgstr "タグ「 %s 」の記事"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここにはなにもないようです。下記のリンクまたは検索を試してみてください。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#. Theme URI of the plugin/theme
+msgid "http://bricks.code-b.in/"
+msgstr "http://bricks.code-b.in/"
+
+#. Author of the plugin/theme
+msgid "Manas Usharia, Chandni and Team Invasion"
+msgstr "Manas Usharia、Chandni と Team Invasion"
+
+#. Author URI of the plugin/theme
+msgid "http://invasion-technologies.com/"
+msgstr "http://invasion-technologies.com/"

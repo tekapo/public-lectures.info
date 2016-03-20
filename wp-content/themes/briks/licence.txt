@@ -1,0 +1,8 @@
+1. Modernizr: Modernizr is available under the MIT license.
+2. Bootstrap: Bootstrap is released under the MIT license and is copyright 2014 Twitter.
+3. Respond.js: Respond.js is released under the MIT license.
+4. ImagesLoaded: imagesLoaded is released under the MIT License.
+5. InfiniteScroll: InfiniteScroll is available under the MIT license.
+6. Masonry: Masonry is released under the MIT license.
+7. skip-link-focus-fix.js, customizer.js & keyboard-image-navigation.js are part of the Underscores Framework used by the theme, and hence under GPL v2.
+8. JQuery(jquery-1.10.1.min.js): JQuery is released under the MIT license.  
