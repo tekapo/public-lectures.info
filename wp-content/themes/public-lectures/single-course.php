@@ -30,6 +30,7 @@ get_header();
 
             $format = '
             <table>
+            $syllabus
                 <tr>
                     <th>講師</th>
                     <td>%1$s</td>
