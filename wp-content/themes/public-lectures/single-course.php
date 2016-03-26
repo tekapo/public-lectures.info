@@ -40,30 +40,32 @@ get_header();
 			<?php
 //			get_template_part( 'content', 'single' );
 
-			if ( class_exists( SCF ) ) {
+			if ( class_exists( 'SCF' ) ) {
 
 				$course_title			 = get_the_title();
 				$category_list			 = get_the_category_list( ',' );
 				$tag_list				 = get_the_tag_list( '', ', ' );
 				$syllabus				 = SCF::get( 'syllabus' );
 				$syllabus_original_url	 = SCF::get( 'syllabus_original_url' );
+				$course_fee				 = SCF::get( 'course_fee' );
 				$teacher				 = SCF::get( 'teacher' );
 				$start_date				 = SCF::get( 'start-date' );
 				$end_date				 = SCF::get( 'end-date' );
 				$start_application		 = SCF::get( 'start-application' );
 				$end_application		 = SCF::get( 'end-application' );
-				$class_day				 = SCF::get( 'day' );
-				$class_time				 = SCF::get( 'time' );
+				$sign_up				 = SCF::get( 'sign_up' );
+
+				$class_day	 = SCF::get( 'day' );
+				$days		 = '';
+				foreach ( $class_day as $day ) {
+					$days .= $day . '、';
+				}
+
+				$class_time = SCF::get( 'time' );
 
 				$school_id	 = SCF::get( 'school-name' );
 				$page		 = get_page( $school_id[0] );
 				$school_name = $page->post_title;
-				
-				var_dump($class_day);
-				
-				foreach ($class_day as $day) {
-					$days .= $day.'、';
-				}
 
 				echo <<< EOL
 				
@@ -84,6 +86,10 @@ get_header();
 							</a>より引用
 						</div>
 					</td>
+				</tr>
+				<tr>
+					<th>受講料</th>
+					<td>$course_fee</td>
 				</tr>
 				<tr>
 					<th>カテゴリー</th>
