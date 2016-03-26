@@ -13,3 +13,7 @@ Text Domain:
 */
 
 @import url("../briks/style.css");
+
+table.course-table th {
+    width: 30%;
+}
